@@ -6,5 +6,5 @@ export const Container = styled.aside`
 `
 export const Photo = styled.img`
     height: 370px;
-    margin-top: 50px;
+    margin-top: 50px; 
 `
