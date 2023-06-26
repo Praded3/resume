@@ -2,6 +2,9 @@ import styled from '@emotion/styled';
 
 export const ProjectList = styled.ol`
     padding-left: 16px;
+    display: flex;
+    gap: 16px;
+    flex-direction: column;
 `
 
 

@@ -1,7 +1,7 @@
 [
-  { "id": "1", "href": "https://praded3.github.io/house/", "technology": "[HTML5, CSS3, JavaScript]" },
-  { "id": "2", "href": "https://praded3.github.io/barberShop", "technology": "[HTML5, CSS3, JavaScript]" },
-  { "id": "3", "href": "https://praded3.github.io/test-task", "technology": "[HTML5, CSS3]" },
-  { "id": "4", "href": "https://praded3.github.io/barberShop", "technology": "[HTML5, CSS3, JavaScript]" },
-  { "id": "5", "href": "https://praded3.github.io/Business-promotion", "technology": "[HTML5, CSS3, JavaScript]" }
+  { "id": "9", "rep": "https://github.com/Praded3/resume" , "href": "https://praded3.github.io/resume/", "technology": "This is my resume written in React [React]" },
+  { "id": "1", "rep": "https://github.com/Praded3/house-json" , "href": "https://praded3.github.io/house/", "technology": "While making this layout, I learned to use the Google Maps API, write big js code, used npm. Also wrote a function for sending an application to Telegram. [HTML5, CSS3, JavaScript]" },
+  { "id": "2", "rep": "https://github.com/Praded3/meb" , "href": "https://praded3.github.io/meb/", "technology": "While making this layout, I learned to use sliders, made a good adaptive layout [HTML5, CSS3, JavaScript]" },
+  { "id": "4", "rep": "https://github.com/Praded3/barberShop" , "href": "https://praded3.github.io/barberShop", "technology": "While making this layout, I learned how to use flexes and make a mobile menu [HTML5, CSS3, JavaScript]" },
+  { "id": "5", "rep": "https://github.com/Praded3/Business-promotion" , "href": "https://praded3.github.io/Business-promotion", "technology": "While making this layout, I learned how to use flexes and make a mobile menu [HTML5, CSS3, JavaScript]" }
 ]

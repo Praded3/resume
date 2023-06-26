@@ -6,12 +6,14 @@ import { ProjectListItem } from '../ProjectItem/ProjectItem';
 export const ProjectsAll = ({projects}) => {
     return (
         <ProjectList>
-            {projects.map(({ id, href, technology }) => {
+            {projects.map(({ id, href, technology, rep }) => {
                 return (
                     <ProjectListItem
                         key={id}
                         href={href}
-                        technology={technology} />
+                        technology={technology}
+                        repository={rep}
+                    />
                 );
             })
             }        

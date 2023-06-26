@@ -27,7 +27,7 @@ export const Name = styled.h1`
 export const MyDescription = styled.p`
     font-style: normal;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 24px;
     color: #595959;
     width: 525px;
