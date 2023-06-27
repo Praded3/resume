@@ -1,11 +1,12 @@
 import styled from '@emotion/styled';
 
 export const MainContent = styled.div`
-    padding: 88px;
+    padding: 50px  88px ;
+
 `
 
 export const AboutMeContainer = styled.div`
-    margin-bottom: 64px;
+ 
 `
 export const MyProf = styled.h2`
     margin-bottom: 0 0 0 18px;
@@ -30,5 +31,4 @@ export const MyDescription = styled.p`
     font-size: 16px;
     line-height: 24px;
     color: #595959;
-    width: 525px;
 `

@@ -1,7 +1,7 @@
 import styled from '@emotion/styled';
 
 export const Container = styled.div`
-  margin-bottom: 44px;
+
 `
 export const Title = styled.h3`
     font-style: normal;

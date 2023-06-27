@@ -10,7 +10,7 @@ export const Item = styled.li`
 `
 
 export const ProjectLink = styled.a`
-display: flex;
+    display: inline-block;
     font-style: normal;
     font-weight: 700;
     font-size: 16px;
@@ -26,6 +26,7 @@ display: flex;
 `
 
 export const ProjectSpan = styled.span`
+    display: block;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
